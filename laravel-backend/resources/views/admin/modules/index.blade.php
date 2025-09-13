@@ -1,0 +1,1 @@
+<h3>Module Toggles (Scaffold)</h3><ul>@foreach($modules as $m)<li>{{ $m }} - [Toggle]</li>@endforeach</ul>

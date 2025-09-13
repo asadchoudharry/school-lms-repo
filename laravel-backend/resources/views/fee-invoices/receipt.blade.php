@@ -1,0 +1,1 @@
+<html><body><h2>Fee Receipt (Scaffold)</h2></body></html>

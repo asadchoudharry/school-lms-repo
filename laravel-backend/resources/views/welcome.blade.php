@@ -1,0 +1,1 @@
+<h1>Welcome to School LMS + SMS Scaffold</h1>

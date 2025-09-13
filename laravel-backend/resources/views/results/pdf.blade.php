@@ -1,0 +1,1 @@
+<html><body><h2>Marksheet (Scaffold)</h2><p>Student: {{ $result->student->name ?? 'Student' }}</p></body></html>

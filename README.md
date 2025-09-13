@@ -1,0 +1,1 @@
+# School LMS + SMS - Scaffold\n\nThis repository is a scaffold for the School Management System + LMS + Corporate + White-label solution. Fill in logic and deploy.\n

@@ -1,0 +1,1 @@
+import 'package:flutter/material.dart';\nclass ChatScreen extends StatelessWidget{ @override Widget build(BuildContext context){ return Scaffold(appBar: AppBar(title: Text('Chat')), body: Center(child: Text('Chat UI (scaffold)'))); }}\n

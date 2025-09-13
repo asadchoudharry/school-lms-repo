@@ -1,0 +1,1 @@
+# Laravel Backend Scaffold\n\nThis folder contains scaffold files for the School LMS backend. Copy these into a fresh Laravel app or use as reference.\n

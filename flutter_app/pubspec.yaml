@@ -1,0 +1,1 @@
+name: flutter_app\ndescription: Flutter scaffold for School LMS\nversion: 1.0.0\nenvironment:\n  sdk: '>=2.18.0 <3.0.0'\ndependencies:\n  flutter:\n    sdk: flutter\n  cupertino_icons: ^1.0.2\n

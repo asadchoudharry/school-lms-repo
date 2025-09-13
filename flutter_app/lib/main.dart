@@ -1,0 +1,1 @@
+import 'package:flutter/material.dart';\nimport 'screens/dashboard.dart';\nvoid main() => runApp(MyApp());\nclass MyApp extends StatelessWidget{ @override Widget build(BuildContext context){ return MaterialApp(title:'School LMS', home: DashboardScreen()); }}\n

@@ -1,0 +1,1 @@
+INSTRUCTIONS\n\n1) Move laravel-backend contents into a fresh Laravel project or create a new Laravel project and copy these folders/files into it.\n2) Run composer install, npm install, configure .env, run migrations and seeders.\n3) For Flutter, run flutter pub get inside flutter_app/ and run the app.\n

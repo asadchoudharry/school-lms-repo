@@ -1,0 +1,1 @@
+#!/usr/bin/env bash\n# Creates a zip and outputs base64\nZIP_NAME=school_lms_repo.zip\ntar -czf $ZIP_NAME -C "/e/lms/lms-github-skeleton" "school-lms-repo"\nbase64 $ZIP_NAME > school_lms_repo_base64.txt\necho "Created $ZIP_NAME and school_lms_repo_base64.txt"\n
